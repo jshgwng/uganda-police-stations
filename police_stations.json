@@ -1,0 +1,2142 @@
+[
+  {
+    "id": "ID000001",
+    "name": "JINJA ROAD MAIN STATION"
+  },
+  {
+    "id": "ID000002",
+    "name": "INTERNAL AFFAIRS POLICE STN"
+  },
+  {
+    "id": "ID000003",
+    "name": "KITINTALE POLICE STN"
+  },
+  {
+    "id": "ID000004",
+    "name": "ACHOLI QUARTERS POLICE STN"
+  },
+  {
+    "id": "ID000005",
+    "name": "KINAWATAKA POLICE STN"
+  },
+  {
+    "id": "ID000006",
+    "name": "KOLOLO POLICE STN"
+  },
+  {
+    "id": "ID000007",
+    "name": "MUBS POLICE STN"
+  },
+  {
+    "id": "ID000008",
+    "name": "KYAMBOGO POLICE STN"
+  },
+  {
+    "id": "ID000009",
+    "name": "MAWANDA POLICE STN"
+  },
+  {
+    "id": "ID000010",
+    "name": "KIKAYA POLICE STN"
+  },
+  {
+    "id": "ID000011",
+    "name": "KISASI POLICE STN"
+  },
+  {
+    "id": "ID000012",
+    "name": "NTINDA POLICE STN"
+  },
+  {
+    "id": "ID000013",
+    "name": "KIRA ROAD POLICE STN"
+  },
+  {
+    "id": "ID000014",
+    "name": "KAMWOKYA POLICE STN"
+  },
+  {
+    "id": "ID000015",
+    "name": "KYEBANDO POLICE STN"
+  },
+  {
+    "id": "ID000016",
+    "name": "KIWATULE"
+  },
+  {
+    "id": "ID000017",
+    "name": "BUKOTO"
+  },
+  {
+    "id": "ID000018",
+    "name": "BWEYOGERERE POLICE STN"
+  },
+  {
+    "id": "ID000019",
+    "name": "KIREKA POLICE STN"
+  },
+  {
+    "id": "ID000020",
+    "name": "KIRINYA POLICE STN"
+  },
+  {
+    "id": "ID000021",
+    "name": "KIWOLOGOMA POLICE STN"
+  },
+  {
+    "id": "ID000022",
+    "name": "NAJERA POLICE STN"
+  },
+  {
+    "id": "ID000023",
+    "name": "NALYA POLICE STN"
+  },
+  {
+    "id": "ID000024",
+    "name": "NAMUGONGO [POLICE STN"
+  },
+  {
+    "id": "ID000025",
+    "name": "KIRA CENTRAL POLICE STN"
+  },
+  {
+    "id": "ID000026",
+    "name": "MUKONO POLICE STN"
+  },
+  {
+    "id": "ID000027",
+    "name": "SEETA POLICE STN"
+  },
+  {
+    "id": "ID000028",
+    "name": "MBALALA POLICE STN"
+  },
+  {
+    "id": "ID000029",
+    "name": "UCU POLICE STN"
+  },
+  {
+    "id": "ID000030",
+    "name": "NAMAGUNGA POLICE STN"
+  },
+  {
+    "id": "ID000031",
+    "name": "KATOSI POLICE STN"
+  },
+  {
+    "id": "ID000032",
+    "name": "KYAMPISI POLICE STN"
+  },
+  {
+    "id": "ID000033",
+    "name": "NAKIFUMA POLICE STN"
+  },
+  {
+    "id": "ID000034",
+    "name": "NTUNDA POLICE STN"
+  },
+  {
+    "id": "ID000035",
+    "name": "NAGALAMA MAIN STN"
+  },
+  {
+    "id": "ID000036",
+    "name": "STATIONS"
+  },
+  {
+    "id": "ID000037",
+    "name": "BWAISE POLICE STN"
+  },
+  {
+    "id": "ID000038",
+    "name": "MAGANJO POLICE STN"
+  },
+  {
+    "id": "ID000039",
+    "name": "KAWANDA POLICE STN"
+  },
+  {
+    "id": "ID000040",
+    "name": "LUGOBA POLICE STN"
+  },
+  {
+    "id": "ID000041",
+    "name": "STATIONS"
+  },
+  {
+    "id": "ID000042",
+    "name": "STN"
+  },
+  {
+    "id": "ID000043",
+    "name": "LUGALA POLICE STN"
+  },
+  {
+    "id": "ID000044",
+    "name": "MAKERERE POLICE STN"
+  },
+  {
+    "id": "ID000045",
+    "name": "KIKONI POLICE STN"
+  },
+  {
+    "id": "ID000046",
+    "name": "MULAGO PSTN"
+  },
+  {
+    "id": "ID000047",
+    "name": "KATWE POLICE STN"
+  },
+  {
+    "id": "ID000048",
+    "name": "NDEEBA POLICE STN"
+  },
+  {
+    "id": "ID000049",
+    "name": "NATETE POLICE STN"
+  },
+  {
+    "id": "ID000050",
+    "name": "SALAMA POLICE STN"
+  },
+  {
+    "id": "ID000051",
+    "name": "NDEJJE POLICE STN"
+  },
+  {
+    "id": "ID000052",
+    "name": "MAKINDYE POLICE STN"
+  },
+  {
+    "id": "ID000053",
+    "name": "MUTUNDWE POLICE STN"
+  },
+  {
+    "id": "ID000054",
+    "name": "BUNAMWAYA POLICE STN"
+  },
+  {
+    "id": "ID000055",
+    "name": "KITEBI-KABOWA POLICE STN"
+  },
+  {
+    "id": "ID000056",
+    "name": "CLOCK TOWER"
+  },
+  {
+    "id": "ID000057",
+    "name": "KATWE RADIO ROOM"
+  },
+  {
+    "id": "ID000058",
+    "name": "NSANGI POLICE STN"
+  },
+  {
+    "id": "ID000059",
+    "name": "MAYA POLICE STN"
+  },
+  {
+    "id": "ID000060",
+    "name": "NABINGO POLICE STN"
+  },
+  {
+    "id": "ID000061",
+    "name": "KYENGERA POLICE STN"
+  },
+  {
+    "id": "ID000062",
+    "name": "NALUMUNYE POLICE STN"
+  },
+  {
+    "id": "ID000063",
+    "name": "NSANGI SUB COUNTY"
+  },
+  {
+    "id": "ID000064",
+    "name": "KIBULI POLICE STN"
+  },
+  {
+    "id": "ID000065",
+    "name": "KISUGU POLICE STN"
+  },
+  {
+    "id": "ID000066",
+    "name": "GABA POLICE STN"
+  },
+  {
+    "id": "ID000067",
+    "name": "KABALAGALA MAIN STN"
+  },
+  {
+    "id": "ID000068",
+    "name": "KANSANGA STN"
+  },
+  {
+    "id": "ID000069",
+    "name": "STATIONS"
+  },
+  {
+    "id": "ID000070",
+    "name": "ENTEBBE POLICE STN"
+  },
+  {
+    "id": "ID000071",
+    "name": "KISUBI POLICE STN"
+  },
+  {
+    "id": "ID000072",
+    "name": "KASENYI POLICE STN"
+  },
+  {
+    "id": "ID000073",
+    "name": "KASANJE POLICE STN"
+  },
+  {
+    "id": "ID000074",
+    "name": "KITOORO POLICE STN"
+  },
+  {
+    "id": "ID000075",
+    "name": "ABAITABARI POLICE STN"
+  },
+  {
+    "id": "ID000076",
+    "name": "NAKIWOGO POLICE STN"
+  },
+  {
+    "id": "ID000077",
+    "name": "MPALA POLICE STN"
+  },
+  {
+    "id": "ID000078",
+    "name": "KATABI POLICE STN"
+  },
+  {
+    "id": "ID000079",
+    "name": "NAKAWUKA POLICE STN"
+  },
+  {
+    "id": "ID000080",
+    "name": "STATIONS"
+  },
+  {
+    "id": "ID000081",
+    "name": "KAJANSI POLICE STN"
+  },
+  {
+    "id": "ID000082",
+    "name": "LUBOWA POLICE STN"
+  },
+  {
+    "id": "ID000083",
+    "name": "BWEBAJA POLICE STN"
+  },
+  {
+    "id": "ID000084",
+    "name": "AKRITE POLICE STN"
+  },
+  {
+    "id": "ID000085",
+    "name": "NAMASUBA"
+  },
+  {
+    "id": "ID000086",
+    "name": "MUTUNGO POLICE STN"
+  },
+  {
+    "id": "ID000087",
+    "name": "STATIONS"
+  },
+  {
+    "id": "ID000088",
+    "name": "NKURUMAH POLICE STN"
+  },
+  {
+    "id": "ID000089",
+    "name": "NAKASERO POLICE STN"
+  },
+  {
+    "id": "ID000090",
+    "name": "KISEKA POLICE STN"
+  },
+  {
+    "id": "ID000091",
+    "name": "CPS KAMPALA"
+  },
+  {
+    "id": "ID000092",
+    "name": "CPS KAPCHORWA"
+  },
+  {
+    "id": "ID000093",
+    "name": "SIPI POLICE STATION"
+  },
+  {
+    "id": "ID000094",
+    "name": "CPS KWEEN"
+  },
+  {
+    "id": "ID000095",
+    "name": "NGENGE PS"
+  },
+  {
+    "id": "ID000096",
+    "name": "KAPRORON PS"
+  },
+  {
+    "id": "ID000097",
+    "name": "CPS BUKWO"
+  },
+  {
+    "id": "ID000098",
+    "name": "SUAM PS"
+  },
+  {
+    "id": "ID000099",
+    "name": "CHESOWER PS"
+  },
+  {
+    "id": "ID000100",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000101",
+    "name": "AWACH"
+  },
+  {
+    "id": "ID000102",
+    "name": "REGION ASWA"
+  },
+  {
+    "id": "ID000103",
+    "name": "KITGUM"
+  },
+  {
+    "id": "ID000104",
+    "name": "CPS- AGAGO"
+  },
+  {
+    "id": "ID000105",
+    "name": "KALONGO"
+  },
+  {
+    "id": "ID000106",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000107",
+    "name": "ATANGA"
+  },
+  {
+    "id": "ID000108",
+    "name": "PAJULE"
+  },
+  {
+    "id": "ID000109",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000110",
+    "name": "MADIOPEI"
+  },
+  {
+    "id": "ID000111",
+    "name": "PALABEKKAL"
+  },
+  {
+    "id": "ID000112",
+    "name": "AMURU CPS"
+  },
+  {
+    "id": "ID000113",
+    "name": "ATIAK"
+  },
+  {
+    "id": "ID000114",
+    "name": "ELEGU"
+  },
+  {
+    "id": "ID000115",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000116",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000117",
+    "name": "SOROTI CPS"
+  },
+  {
+    "id": "ID000118",
+    "name": "FIRE & RESCUE – SOROTI"
+  },
+  {
+    "id": "ID000119",
+    "name": "GWERI"
+  },
+  {
+    "id": "ID000120",
+    "name": "AMURIA CPS"
+  },
+  {
+    "id": "ID000121",
+    "name": 393240993
+  },
+  {
+    "id": "ID000122",
+    "name": "SERERE CPS"
+  },
+  {
+    "id": "ID000123",
+    "name": "BUKEDEA CPS"
+  },
+  {
+    "id": "ID000124",
+    "name": "KACHUMBALA"
+  },
+  {
+    "id": "ID000125",
+    "name": "KABERAMAIDO CPS"
+  },
+  {
+    "id": "ID000126",
+    "name": "BULULU"
+  },
+  {
+    "id": "ID000127",
+    "name": "NGORA CPS"
+  },
+  {
+    "id": "ID000128",
+    "name": "KOBUKU"
+  },
+  {
+    "id": "ID000129",
+    "name": "KUMI CPS"
+  },
+  {
+    "id": "ID000130",
+    "name": "NYERO"
+  },
+  {
+    "id": "ID000131",
+    "name": "KATAKWI CPS"
+  },
+  {
+    "id": "ID000132",
+    "name": "KAPELEBYONG CPS"
+  },
+  {
+    "id": "ID000133",
+    "name": "OBALANGA"
+  },
+  {
+    "id": "ID000134",
+    "name": "HOIMA MAIN STATION"
+  },
+  {
+    "id": "ID000135",
+    "name": "KIGOROBYA"
+  },
+  {
+    "id": "ID000136",
+    "name": "KYANGWALI"
+  },
+  {
+    "id": "ID000137",
+    "name": "KIZIRANFUMBI"
+  },
+  {
+    "id": "ID000138",
+    "name": "KIKUUBE CPS"
+  },
+  {
+    "id": "ID000139",
+    "name": "MASINDI MAIN STATION"
+  },
+  {
+    "id": "ID000140",
+    "name": "KINYARA"
+  },
+  {
+    "id": "ID000141",
+    "name": "KAGADI MAIN STATION"
+  },
+  {
+    "id": "ID000142",
+    "name": "ISUNGA"
+  },
+  {
+    "id": "ID000143",
+    "name": "MABAALE"
+  },
+  {
+    "id": "ID000144",
+    "name": "KIBAALE MAIN STATION"
+  },
+  {
+    "id": "ID000145",
+    "name": "KAKUMIRO MAIN STATION"
+  },
+  {
+    "id": "ID000146",
+    "name": "IGAYAZA"
+  },
+  {
+    "id": "ID000147",
+    "name": "KIRYANDONGO MAIN STATION"
+  },
+  {
+    "id": "ID000148",
+    "name": "BWEYALE"
+  },
+  {
+    "id": "ID000149",
+    "name": "BULIISA MAIN STATION"
+  },
+  {
+    "id": "ID000150",
+    "name": "BIISO"
+  },
+  {
+    "id": "ID000151",
+    "name": "CPS KAMULI"
+  },
+  {
+    "id": "ID000152",
+    "name": "NAMWENDWA"
+  },
+  {
+    "id": "ID000153",
+    "name": "MBULAMUTI"
+  },
+  {
+    "id": "ID000154",
+    "name": "CPS BUYENDE"
+  },
+  {
+    "id": "ID000155",
+    "name": "KIDERA"
+  },
+  {
+    "id": "ID000156",
+    "name": "IRUNDU"
+  },
+  {
+    "id": "ID000157",
+    "name": "JOC"
+  },
+  {
+    "id": "ID000158",
+    "name": "KALIRO CPS"
+  },
+  {
+    "id": "ID000159",
+    "name": "DPC"
+  },
+  {
+    "id": "ID000160",
+    "name": "LUUKA CPS"
+  },
+  {
+    "id": "ID000161",
+    "name": "RADIO ROOM-MBALE"
+  },
+  {
+    "id": "ID000162",
+    "name": "CPS COUNTER"
+  },
+  {
+    "id": "ID000163",
+    "name": "BUSIU P/STN"
+  },
+  {
+    "id": "ID000164",
+    "name": "NAKALOKE P/STN"
+  },
+  {
+    "id": "ID000165",
+    "name": "NKOMA P/STN"
+  },
+  {
+    "id": "ID000166",
+    "name": "NAUYO P/STN"
+  },
+  {
+    "id": "ID000167",
+    "name": "SIRONKO P/STN"
+  },
+  {
+    "id": "ID000168",
+    "name": "BUSULANI P/STN"
+  },
+  {
+    "id": "ID000169",
+    "name": "CPS COUNTER"
+  },
+  {
+    "id": "ID000170",
+    "name": "CPS-RADIO ROOM"
+  },
+  {
+    "id": "ID000171",
+    "name": "CPS-RADIO ROOM"
+  },
+  {
+    "id": "ID000172",
+    "name": "LWAKHAKHA RADIO ROOM"
+  },
+  {
+    "id": "ID000173",
+    "name": "RPC’S OFFICE"
+  },
+  {
+    "id": "ID000174",
+    "name": "REG.POLICE-COUNTER"
+  },
+  {
+    "id": "ID000175",
+    "name": "CPS KABALE"
+  },
+  {
+    "id": "ID000176",
+    "name": "KATUNA P/STN"
+  },
+  {
+    "id": "ID000177",
+    "name": "MAZIBA P/STN"
+  },
+  {
+    "id": "ID000178",
+    "name": "CPS KISORO"
+  },
+  {
+    "id": "ID000179",
+    "name": "BUNAGANA P/STN"
+  },
+  {
+    "id": "ID000180",
+    "name": "BAUSANZA BORDER STN"
+  },
+  {
+    "id": "ID000181",
+    "name": "CPS COUNTER"
+  },
+  {
+    "id": "ID000182",
+    "name": "RUHINDA P/STN"
+  },
+  {
+    "id": "ID000183",
+    "name": "RWENSHAMA P/STN"
+  },
+  {
+    "id": "ID000184",
+    "name": "BUGANGARI P/STN"
+  },
+  {
+    "id": "ID000185",
+    "name": "KIHIHI P/STN"
+  },
+  {
+    "id": "ID000186",
+    "name": "ISHASHA P/STN"
+  },
+  {
+    "id": "ID000187",
+    "name": "KANUNGU P/STN"
+  },
+  {
+    "id": "ID000188",
+    "name": "RUBANDA P/STN"
+  },
+  {
+    "id": "ID000189",
+    "name": "BUFUNDI P/STN"
+  },
+  {
+    "id": "ID000190",
+    "name": "RUKIGA P/STN"
+  },
+  {
+    "id": "ID000191",
+    "name": "MUHANGA P/STN"
+  },
+  {
+    "id": "ID000192",
+    "name": "BUKINDA P/STN"
+  },
+  {
+    "id": "ID000193",
+    "name": "JOC SAVANNAH"
+  },
+  {
+    "id": "ID000194",
+    "name": "COUNTER CPS"
+  },
+  {
+    "id": "ID000195",
+    "name": "KASANA P/STN"
+  },
+  {
+    "id": "ID000196",
+    "name": "WOBULENZI P/STN"
+  },
+  {
+    "id": "ID000197",
+    "name": "ZIROBWE P/STN"
+  },
+  {
+    "id": "ID000198",
+    "name": "BOMBO P/STN"
+  },
+  {
+    "id": "ID000199",
+    "name": "CPS COUNTER"
+  },
+  {
+    "id": "ID000200",
+    "name": "KAKOOGE P/STN"
+  },
+  {
+    "id": "ID000201",
+    "name": "MIGYEERA P/STN"
+  },
+  {
+    "id": "ID000202",
+    "name": "RWAMPANGA P/STN"
+  },
+  {
+    "id": "ID000203",
+    "name": "KAZWAMA P/STN"
+  },
+  {
+    "id": "ID000204",
+    "name": "KIWOKO CPS"
+  },
+  {
+    "id": "ID000205",
+    "name": "NGOMA P/STN"
+  },
+  {
+    "id": "ID000206",
+    "name": "KAPEKA P/STN"
+  },
+  {
+    "id": "ID000207",
+    "name": "SEMUTO P/STN"
+  },
+  {
+    "id": "ID000208",
+    "name": "BUTALANGO P/STN"
+  },
+  {
+    "id": "ID000209",
+    "name": "NAMUNGALWE P/STN"
+  },
+  {
+    "id": "ID000210",
+    "name": "BULIDA POLICE STATION"
+  },
+  {
+    "id": "ID000211",
+    "name": "KALUUBA POLICE STATION"
+  },
+  {
+    "id": "ID000212",
+    "name": "LOLWE POLICE STATION."
+  },
+  {
+    "id": "ID000213",
+    "name": "BWONDA PSTN"
+  },
+  {
+    "id": "ID000214",
+    "name": "CPS MASAKA"
+  },
+  {
+    "id": "ID000215",
+    "name": "NYENDO"
+  },
+  {
+    "id": "ID000216",
+    "name": "KYABAKUZA"
+  },
+  {
+    "id": "ID000217",
+    "name": "MPUGWE"
+  },
+  {
+    "id": "ID000218",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000219",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000220",
+    "name": "MBIRIZI"
+  },
+  {
+    "id": "ID000221",
+    "name": "KYAZANGA"
+  },
+  {
+    "id": "ID000222",
+    "name": "KINONI"
+  },
+  {
+    "id": "ID000223",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000224",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000225",
+    "name": "KASENSERO"
+  },
+  {
+    "id": "ID000226",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000227",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000228",
+    "name": "LUKAYA"
+  },
+  {
+    "id": "ID000229",
+    "name": "KYAMULIBWA"
+  },
+  {
+    "id": "ID000230",
+    "name": "BUKULULA"
+  },
+  {
+    "id": "ID000231",
+    "name": "KALIRO"
+  },
+  {
+    "id": "ID000232",
+    "name": "LWABEENGE"
+  },
+  {
+    "id": "ID000233",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000234",
+    "name": "MATEETE"
+  },
+  {
+    "id": "ID000235",
+    "name": "LWEMIYAGA"
+  },
+  {
+    "id": "ID000236",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000237",
+    "name": "BUTENGA"
+  },
+  {
+    "id": "ID000238",
+    "name": "MISANVU"
+  },
+  {
+    "id": "ID000239",
+    "name": "KIKUUTA"
+  },
+  {
+    "id": "ID000240",
+    "name": "BIGASA"
+  },
+  {
+    "id": "ID000241",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000242",
+    "name": "MITYANA BAR (KUNYWA)"
+  },
+  {
+    "id": "ID000243",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000244",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000245",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000246",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000247",
+    "name": "CPS"
+  },
+  {
+    "id": "ID000248",
+    "name": "KAMENGO"
+  },
+  {
+    "id": "ID000249",
+    "name": "KIBIBI"
+  },
+  {
+    "id": "ID000250",
+    "name": "MADDU"
+  },
+  {
+    "id": "ID000251",
+    "name": "JINJA CPS"
+  },
+  {
+    "id": "ID000252",
+    "name": "NALUFENYA POLICE STN"
+  },
+  {
+    "id": "ID000253",
+    "name": "WALUKUBA POLICE STN"
+  },
+  {
+    "id": "ID000254",
+    "name": "BUGEMBE POLICE STN"
+  },
+  {
+    "id": "ID000255",
+    "name": "BUWENGE POLICE STN"
+  },
+  {
+    "id": "ID000256",
+    "name": "KAKIRA POLICE STN"
+  },
+  {
+    "id": "ID000257",
+    "name": "JOC"
+  },
+  {
+    "id": "ID000258",
+    "name": "MOYO"
+  },
+  {
+    "id": "ID000259",
+    "name": "OBONGI"
+  },
+  {
+    "id": "ID000260",
+    "name": "MOYO SUB COUNTY"
+  },
+  {
+    "id": "ID000261",
+    "name": "ADJUMANI"
+  },
+  {
+    "id": "ID000262",
+    "name": "DZAIPI"
+  },
+  {
+    "id": "ID000263",
+    "name": "OFUA"
+  },
+  {
+    "id": "ID000264",
+    "name": "YUMBE"
+  },
+  {
+    "id": "ID000265",
+    "name": "LODONGA"
+  },
+  {
+    "id": "ID000266",
+    "name": "ADIBO"
+  },
+  {
+    "id": "ID000267",
+    "name": "RADIO ROOM YUMBE"
+  },
+  {
+    "id": "ID000268",
+    "name": "PTS IKAFE(RADIO ROOM)"
+  },
+  {
+    "id": "ID000269",
+    "name": "MALABA"
+  },
+  {
+    "id": "ID000270",
+    "name": "BUSIA CPS"
+  },
+  {
+    "id": "ID000271",
+    "name": "MASAFU"
+  },
+  {
+    "id": "ID000272",
+    "name": "BUSOLWE"
+  },
+  {
+    "id": "ID000273",
+    "name": "PALLISA CPS"
+  },
+  {
+    "id": "ID000274",
+    "name": "BUDAKA CPS"
+  },
+  {
+    "id": "ID000275",
+    "name": "KIBUKU CPS"
+  },
+  {
+    "id": "ID000276",
+    "name": "BUTEBO CPS"
+  },
+  {
+    "id": "ID000277",
+    "name": "CPS ARUA"
+  },
+  {
+    "id": "ID000278",
+    "name": "LIA POLICE STATION"
+  },
+  {
+    "id": "ID000279",
+    "name": "VURRA STATION"
+  },
+  {
+    "id": "ID000280",
+    "name": "RHINOCAMP POLICE STATION"
+  },
+  {
+    "id": "ID000281",
+    "name": "OMUGO POLICE STATION"
+  },
+  {
+    "id": "ID000282",
+    "name": "KOBOKO POLICE STATION"
+  },
+  {
+    "id": "ID000283",
+    "name": "ORABA POLICE STATION"
+  },
+  {
+    "id": "ID000284",
+    "name": "BUSIA POLICE STATION"
+  },
+  {
+    "id": "ID000285",
+    "name": "MARACHA POLICE STATION"
+  },
+  {
+    "id": "ID000286",
+    "name": "NEBBI POLICE STATION"
+  },
+  {
+    "id": "ID000287",
+    "name": "GOLI POLICE STATION"
+  },
+  {
+    "id": "ID000288",
+    "name": "PAIDHA POLICE STATION"
+  },
+  {
+    "id": "ID000289",
+    "name": "ZOMBO POLICE STATION"
+  },
+  {
+    "id": "ID000290",
+    "name": "ZEU POLICE STATION"
+  },
+  {
+    "id": "ID000291",
+    "name": "WARR POLICE STATION"
+  },
+  {
+    "id": "ID000292",
+    "name": "PAKWACH POLICE STATION"
+  },
+  {
+    "id": "ID000293",
+    "name": "PANYIMUR POLICE STATION"
+  },
+  {
+    "id": "ID000294",
+    "name": "LUGAZI"
+  },
+  {
+    "id": "ID000295",
+    "name": "BUIKWE"
+  },
+  {
+    "id": "ID000296",
+    "name": "KIYINDI"
+  },
+  {
+    "id": "ID000297",
+    "name": "MABIRA"
+  },
+  {
+    "id": "ID000298",
+    "name": "NGOGWE"
+  },
+  {
+    "id": "ID000299",
+    "name": "KAYUNGA POLICE STATION"
+  },
+  {
+    "id": "ID000300",
+    "name": "BUSAANA"
+  },
+  {
+    "id": "ID000301",
+    "name": "GALILAYA"
+  },
+  {
+    "id": "ID000302",
+    "name": "BUVUMA POLICE STATION"
+  },
+  {
+    "id": "ID000303",
+    "name": "NJERU POLICE STATION"
+  },
+  {
+    "id": "ID000304",
+    "name": "BUSHENYI"
+  },
+  {
+    "id": "ID000305",
+    "name": "RUBIRIZI"
+  },
+  {
+    "id": "ID000306",
+    "name": "MITOOMA"
+  },
+  {
+    "id": "ID000307",
+    "name": "SHEEMA"
+  },
+  {
+    "id": "ID000308",
+    "name": "BUHWEJU"
+  },
+  {
+    "id": "ID000309",
+    "name": "RCO OFFICE"
+  },
+  {
+    "id": "ID000310",
+    "name": "CPS KOTIDO"
+  },
+  {
+    "id": "ID000311",
+    "name": "ABIM CPS"
+  },
+  {
+    "id": "ID000312",
+    "name": "CPS KAABONG"
+  },
+  {
+    "id": "ID000313",
+    "name": "KABAROLE MAIN POLICE STATION"
+  },
+  {
+    "id": "ID000314",
+    "name": "BUNDIBUJO MAIN STATION 754887386 WORKING"
+  },
+  {
+    "id": "ID000315",
+    "name": "NYAHUKA POLICE STATION 750143815 WORKING"
+  },
+  {
+    "id": "ID000316",
+    "name": "BUKONJO"
+  },
+  {
+    "id": "ID000317",
+    "name": "KYARUSHOZI"
+  },
+  {
+    "id": "ID000318",
+    "name": "BUNYANGABO MAIN STN"
+  },
+  {
+    "id": "ID000319",
+    "name": "RWIMI P/STN"
+  },
+  {
+    "id": "ID000320",
+    "name": "RUBONA"
+  },
+  {
+    "id": "ID000321",
+    "name": "MBARARA CPS"
+  },
+  {
+    "id": "ID000322",
+    "name": "NTUNGAMO CPS"
+  },
+  {
+    "id": "ID000323",
+    "name": "KIRUHURA CPS"
+  },
+  {
+    "id": "ID000324",
+    "name": "IBANDA CPS"
+  },
+  {
+    "id": "ID000325",
+    "name": "ISINGIRO CPS"
+  },
+  {
+    "id": "ID000326",
+    "name": "LIRA CPS"
+  },
+  {
+    "id": "ID000327",
+    "name": "OJWINA"
+  },
+  {
+    "id": "ID000328",
+    "name": "BUS PARK"
+  },
+  {
+    "id": "ID000329",
+    "name": "AKOKORO"
+  },
+  {
+    "id": "ID000330",
+    "name": "APAC"
+  },
+  {
+    "id": "ID000331",
+    "name": "IBUJE"
+  },
+  {
+    "id": "ID000332",
+    "name": "NAMBYESO"
+  },
+  {
+    "id": "ID000333",
+    "name": "KWANIA"
+  },
+  {
+    "id": "ID000334",
+    "name": "CAWENTE"
+  },
+  {
+    "id": "ID000335",
+    "name": "ABONGOMOLA"
+  },
+  {
+    "id": "ID000336",
+    "name": "ALEBTONG"
+  },
+  {
+    "id": "ID000337",
+    "name": "AKURA"
+  },
+  {
+    "id": "ID000338",
+    "name": "APALA"
+  },
+  {
+    "id": "ID000339",
+    "name": "OMORO"
+  },
+  {
+    "id": "ID000340",
+    "name": "AKALO"
+  },
+  {
+    "id": "ID000341",
+    "name": "BAALA"
+  },
+  {
+    "id": "ID000342",
+    "name": "ABOKE"
+  },
+  {
+    "id": "ID000343",
+    "name": "LORO"
+  },
+  {
+    "id": "ID000344",
+    "name": "KAMDINI"
+  },
+  {
+    "id": "ID000345",
+    "name": "MINAKULU"
+  },
+  {
+    "id": "ID000346",
+    "name": "NAMASALE"
+  },
+  {
+    "id": "ID000347",
+    "name": "AGOGA"
+  },
+  {
+    "id": "ID000348",
+    "name": "AMOLATAR"
+  },
+  {
+    "id": "ID000349",
+    "name": "DOKOLO"
+  },
+  {
+    "id": "ID000350",
+    "name": "AGWATA"
+  },
+  {
+    "id": "ID000351",
+    "name": "OTUKE"
+  },
+  {
+    "id": "ID000352",
+    "name": "OKWANG"
+  },
+  {
+    "id": "ID000353",
+    "name": "OLILIM"
+  },
+  {
+    "id": "ID000354",
+    "name": "PYAPAK P/STN"
+  },
+  {
+    "id": "ID000355",
+    "name": "NABILATUK"
+  },
+  {
+    "id": "ID000356",
+    "name": "MOROTO BUSPARK"
+  },
+  {
+    "id": "ID000357",
+    "name": "MOROTO P/STN"
+  },
+  {
+    "id": "ID000358",
+    "name": "NAKAPIRIPIRIT"
+  },
+  {
+    "id": "ID000359",
+    "name": "NAKUMATT POLICE POST"
+  },
+  {
+    "id": "ID000360",
+    "name": "KYAMBOGO LOWER POLICE.POST"
+  },
+  {
+    "id": "ID000361",
+    "name": "BANDA POLICE POST"
+  },
+  {
+    "id": "ID000362",
+    "name": "BUGOLOBI BANGALO POLICE POST"
+  },
+  {
+    "id": "ID000363",
+    "name": "NAGURU DRIVE POLICE POST"
+  },
+  {
+    "id": "ID000364",
+    "name": "MUTUNGO POLICE POST"
+  },
+  {
+    "id": "ID000365",
+    "name": "INDUSTRIAL AREA"
+  },
+  {
+    "id": "ID000366",
+    "name": "NAKAWA POLICE POST"
+  },
+  {
+    "id": "ID000367",
+    "name": "GOLF COURSE POLICE POST"
+  },
+  {
+    "id": "ID000368",
+    "name": "JOMAYI POLICE POST"
+  },
+  {
+    "id": "ID000369",
+    "name": "MAWANDA POLICE STN"
+  },
+  {
+    "id": "ID000370",
+    "name": "TUBA POLICE POST"
+  },
+  {
+    "id": "ID000371",
+    "name": "KISASI POLICE STN"
+  },
+  {
+    "id": "ID000372",
+    "name": "KYANJA POLICE POST"
+  },
+  {
+    "id": "ID000373",
+    "name": "BUKASA POLICE POST"
+  },
+  {
+    "id": "ID000374",
+    "name": "MBALWA POLICE POST"
+  },
+  {
+    "id": "ID000375",
+    "name": "KIGANDA POLICE POST"
+  },
+  {
+    "id": "ID000376",
+    "name": "NAKISUNGA POLICE POST"
+  },
+  {
+    "id": "ID000377",
+    "name": "NTAWO POLICE POST"
+  },
+  {
+    "id": "ID000378",
+    "name": "KISOGA POLICE POST"
+  },
+  {
+    "id": "ID000379",
+    "name": "SONDE POLICE POST"
+  },
+  {
+    "id": "ID000380",
+    "name": "NANTABULIRWA POLICE POST"
+  },
+  {
+    "id": "ID000381",
+    "name": "NAMANVE POLICE POST"
+  },
+  {
+    "id": "ID000382",
+    "name": "KOOME POLICE POST"
+  },
+  {
+    "id": "ID000383",
+    "name": "MUKONO TAXI PARK POLICE POST"
+  },
+  {
+    "id": "ID000384",
+    "name": "NAMATABA POLICE POST"
+  },
+  {
+    "id": "ID000385",
+    "name": "NTENJERU POLICE POST"
+  },
+  {
+    "id": "ID000386",
+    "name": "WANTONI POLICE POST"
+  },
+  {
+    "id": "ID000387",
+    "name": "NAGOJJE POLICE POST"
+  },
+  {
+    "id": "ID000388",
+    "name": "KIMENYEDE POLICE POST"
+  },
+  {
+    "id": "ID000389",
+    "name": "NABAALE POLICE POST"
+  },
+  {
+    "id": "ID000390",
+    "name": "NKONGE POLICE POST"
+  },
+  {
+    "id": "ID000391",
+    "name": "MAYANGA YANGA POLICE POST"
+  },
+  {
+    "id": "ID000392",
+    "name": "KALAGI POLICE POST"
+  },
+  {
+    "id": "ID000393",
+    "name": "KABIMBIRI POLICE POST"
+  },
+  {
+    "id": "ID000394",
+    "name": "SEETA NAMUGANGA POLICE POST"
+  },
+  {
+    "id": "ID000395",
+    "name": "POSTS"
+  },
+  {
+    "id": "ID000396",
+    "name": "NAMERE POLICE POST"
+  },
+  {
+    "id": "ID000397",
+    "name": "KAKUNGULU POLICE POST"
+  },
+  {
+    "id": "ID000398",
+    "name": "TUULA POLICE POST"
+  },
+  {
+    "id": "ID000399",
+    "name": "POSTS"
+  },
+  {
+    "id": "ID000400",
+    "name": "NAKULE POLICE POST"
+  },
+  {
+    "id": "ID000401",
+    "name": "LUBIGI POLICE POSTS"
+  },
+  {
+    "id": "ID000402",
+    "name": "KABULENGWA POLICE POST"
+  },
+  {
+    "id": "ID000403",
+    "name": "WAMALA POLICE POST"
+  },
+  {
+    "id": "ID000404",
+    "name": "GOBERO POLICE POST"
+  },
+  {
+    "id": "ID000405",
+    "name": "RWEMENDE POLICE POST"
+  },
+  {
+    "id": "ID000406",
+    "name": "BUKALANGO POLICE POST"
+  },
+  {
+    "id": "ID000407",
+    "name": "KAKONGE POLICE POST"
+  },
+  {
+    "id": "ID000408",
+    "name": "POSTS"
+  },
+  {
+    "id": "ID000409",
+    "name": "WORKING TAXI PARK POLICE POST"
+  },
+  {
+    "id": "ID000410",
+    "name": "MUSAJA ALUMBA POLICE POST"
+  },
+  {
+    "id": "ID000411",
+    "name": "MUZAANA PLOICE POST"
+  },
+  {
+    "id": "ID000412",
+    "name": "LUBAGA CATHEDRAL POLICE POST"
+  },
+  {
+    "id": "ID000413",
+    "name": "RIVERSIDE POLICE POST"
+  },
+  {
+    "id": "ID000414",
+    "name": "MASANAFU POLICE POST"
+  },
+  {
+    "id": "ID000415",
+    "name": "KASUBI POLICE POST"
+  },
+  {
+    "id": "ID000416",
+    "name": "NAMUNGOONA POLICE POST"
+  },
+  {
+    "id": "ID000417",
+    "name": "WAKALIGA POLICE POST"
+  },
+  {
+    "id": "ID000418",
+    "name": "NAMIREMBE CATHEDRAL PLOICE POST"
+  },
+  {
+    "id": "ID000419",
+    "name": "LAKESIDE POLICE POST"
+  },
+  {
+    "id": "ID000420",
+    "name": "KISENYI POLICE POST"
+  },
+  {
+    "id": "ID000421",
+    "name": "NAMIREMBE ROAD POLICE POST"
+  },
+  {
+    "id": "ID000422",
+    "name": "BAKULI POLICE POST"
+  },
+  {
+    "id": "ID000423",
+    "name": "KABANYORO POLICE POST"
+  },
+  {
+    "id": "ID000424",
+    "name": "SEKANYONYI POLICE POST"
+  },
+  {
+    "id": "ID000425",
+    "name": "KIWENDA POLICE POST"
+  },
+  {
+    "id": "ID000426",
+    "name": "CANAN ESTATES POLICE POST"
+  },
+  {
+    "id": "ID000427",
+    "name": "KIJABIJO POLICE POST"
+  },
+  {
+    "id": "ID000428",
+    "name": "MAIRYE POLICE POST"
+  },
+  {
+    "id": "ID000429",
+    "name": "GALAMBA POLICE POST"
+  },
+  {
+    "id": "ID000430",
+    "name": "JAGGALA POLICE OPOPST"
+  },
+  {
+    "id": "ID000431",
+    "name": "NAMAYINA POLICE POST"
+  },
+  {
+    "id": "ID000432",
+    "name": "MASSOLI POLICE POST"
+  },
+  {
+    "id": "ID000433",
+    "name": "LUKWANGA POLICE POST"
+  },
+  {
+    "id": "ID000434",
+    "name": "NALUVULE POLICE POST"
+  },
+  {
+    "id": "ID000435",
+    "name": "SSENGE POLICE POST"
+  },
+  {
+    "id": "ID000436",
+    "name": "KISIMBIRI POLICE POST"
+  },
+  {
+    "id": "ID000437",
+    "name": "KIMWANYI POLICE POST"
+  },
+  {
+    "id": "ID000438",
+    "name": "KUBIRI POLICE POST"
+  },
+  {
+    "id": "ID000439",
+    "name": "WANDEGEYA MARKET POLICE POST"
+  },
+  {
+    "id": "ID000440",
+    "name": "BUGEMA POLICE POST"
+  },
+  {
+    "id": "ID000441",
+    "name": "KAVULE POLICE POST"
+  },
+  {
+    "id": "ID000442",
+    "name": "LDC POLICE POST"
+  },
+  {
+    "id": "ID000443",
+    "name": "MULAGO CASUALITY POLICE POST"
+  },
+  {
+    "id": "ID000444",
+    "name": "KIBE POLICE POST"
+  },
+  {
+    "id": "ID000445",
+    "name": "GADDAFI R/D P/P"
+  },
+  {
+    "id": "ID000446",
+    "name": "KIBIRI POLICE POST"
+  },
+  {
+    "id": "ID000447",
+    "name": "NABISAALU POLICE POST"
+  },
+  {
+    "id": "ID000448",
+    "name": "KIKUMBI POLICE POST"
+  },
+  {
+    "id": "ID000449",
+    "name": "KIRIMANYANGA POLICE POST"
+  },
+  {
+    "id": "ID000450",
+    "name": "BUSEGA R/ABOUT P/P"
+  },
+  {
+    "id": "ID000451",
+    "name": "KIBUMBIRO P/P"
+  },
+  {
+    "id": "ID000452",
+    "name": "MADALA P/P"
+  },
+  {
+    "id": "ID000453",
+    "name": "NATETE TAXI PARK P/P"
+  },
+  {
+    "id": "ID000454",
+    "name": "KABAWO P/P"
+  },
+  {
+    "id": "ID000455",
+    "name": "KIKAJO P/P"
+  },
+  {
+    "id": "ID000456",
+    "name": "KABOWA"
+  },
+  {
+    "id": "ID000457",
+    "name": "KAGUGUBE P/P"
+  },
+  {
+    "id": "ID000458",
+    "name": "BUDO JUNIOR P/P"
+  },
+  {
+    "id": "ID000459",
+    "name": "BUDO KINGS P/P"
+  },
+  {
+    "id": "ID000460",
+    "name": "KAZINGA P/P"
+  },
+  {
+    "id": "ID000461",
+    "name": "NABAZIZA P/P"
+  },
+  {
+    "id": "ID000462",
+    "name": "NKOKONJERU P/P"
+  },
+  {
+    "id": "ID000463",
+    "name": "KABOJA P/P"
+  },
+  {
+    "id": "ID000464",
+    "name": "KIKAJO P/P"
+  },
+  {
+    "id": "ID000465",
+    "name": "KATALE P/P"
+  },
+  {
+    "id": "ID000466",
+    "name": "KASENGE P/P"
+  },
+  {
+    "id": "ID000467",
+    "name": "KASAWEP/P"
+  },
+  {
+    "id": "ID000468",
+    "name": "KOONGE P/P"
+  },
+  {
+    "id": "ID000469",
+    "name": "NSAMBYA P/P"
+  },
+  {
+    "id": "ID000470",
+    "name": "NABUTITI P/P"
+  },
+  {
+    "id": "ID000471",
+    "name": "BUZIGA P/P"
+  },
+  {
+    "id": "ID000472",
+    "name": "BUKASA -ROUND P/P"
+  },
+  {
+    "id": "ID000473",
+    "name": "MUNYONYO"
+  },
+  {
+    "id": "ID000474",
+    "name": "POSTS"
+  },
+  {
+    "id": "ID000475",
+    "name": "BUSSI P/P"
+  },
+  {
+    "id": "ID000476",
+    "name": "GERENGE P/P"
+  },
+  {
+    "id": "ID000477",
+    "name": "WAMALA POLICE POST"
+  },
+  {
+    "id": "ID000478",
+    "name": "HINDU TEMPLE POLICE POST"
+  },
+  {
+    "id": "ID000479",
+    "name": "KABALE POST"
+  },
+  {
+    "id": "ID000480",
+    "name": "LUGONJO P/P"
+  },
+  {
+    "id": "ID000481",
+    "name": "POSTS"
+  },
+  {
+    "id": "ID000482",
+    "name": "NGOBE POLICE POST"
+  },
+  {
+    "id": "ID000483",
+    "name": "LUMULI POLICE POST"
+  },
+  {
+    "id": "ID000484",
+    "name": "KIGO ROAD POLICE POST"
+  },
+  {
+    "id": "ID000485",
+    "name": "POSTS"
+  },
+  {
+    "id": "ID000486",
+    "name": "PUNJANI P/P"
+  },
+  {
+    "id": "ID000487",
+    "name": "COLVILLE P/P"
+  },
+  {
+    "id": "ID000488",
+    "name": "BIWOLOGOMA P/P"
+  },
+  {
+    "id": "ID000489",
+    "name": "OLD TAXI PARK P/P"
+  },
+  {
+    "id": "ID000490",
+    "name": "WILSON ROAD P/P"
+  },
+  {
+    "id": "ID000491",
+    "name": "WILLIAM STREET P/P"
+  },
+  {
+    "id": "ID000492",
+    "name": "ARUA PARK P/P"
+  },
+  {
+    "id": "ID000493",
+    "name": "EM PLAZA P/P"
+  },
+  {
+    "id": "ID000494",
+    "name": "WORKING TAXI PARK"
+  },
+  {
+    "id": "ID000495",
+    "name": "KIKUUBO P/P"
+  },
+  {
+    "id": "ID000496",
+    "name": "RCO OFFICE"
+  },
+  {
+    "id": "ID000497",
+    "name": "LAYIBI"
+  },
+  {
+    "id": "ID000498",
+    "name": "LACOR"
+  },
+  {
+    "id": "ID000499",
+    "name": "GULU UNIVERSITY"
+  },
+  {
+    "id": "ID000500",
+    "name": "PANDWONG"
+  },
+  {
+    "id": "ID000501",
+    "name": "PAGER P/P"
+  },
+  {
+    "id": "ID000502",
+    "name": "PARABONGO"
+  },
+  {
+    "id": "ID000503",
+    "name": "WALIGO BORDER"
+  },
+  {
+    "id": "ID000504",
+    "name": "NGOM OROMO"
+  },
+  {
+    "id": "ID000505",
+    "name": "APIRITI BORDER"
+  },
+  {
+    "id": "ID000506",
+    "name": "BIBIA"
+  },
+  {
+    "id": "ID000507",
+    "name": "AKURU KWER"
+  },
+  {
+    "id": "ID000508",
+    "name": "PABBO"
+  },
+  {
+    "id": "ID000509",
+    "name": "ANAKA HOSPITAL"
+  },
+  {
+    "id": "ID000510",
+    "name": "OPIT"
+  },
+  {
+    "id": "ID000511",
+    "name": "BROOKS CORNER"
+  },
+  {
+    "id": "ID000512",
+    "name": "BUWALASI P/POST"
+  },
+  {
+    "id": "ID000513",
+    "name": "BUTEZA P/POST"
+  },
+  {
+    "id": "ID000514",
+    "name": "BUWAGOGO P/POST"
+  },
+  {
+    "id": "ID000515",
+    "name": "KATUUGO P/POST"
+  },
+  {
+    "id": "ID000516",
+    "name": "KAFU FFU DETACH"
+  },
+  {
+    "id": "ID000517",
+    "name": "BULYAMUSENY P/POST(PRESIDENTIAL FARM)"
+  },
+  {
+    "id": "ID000518",
+    "name": "SSANJE"
+  },
+  {
+    "id": "ID000519",
+    "name": "BULO"
+  },
+  {
+    "id": "ID000520",
+    "name": "KYABADAAZA"
+  },
+  {
+    "id": "ID000521",
+    "name": "KIRIRI"
+  },
+  {
+    "id": "ID000522",
+    "name": "KISOZI DETACH"
+  },
+  {
+    "id": "ID000523",
+    "name": "PALORINYA BASE CAMP"
+  },
+  {
+    "id": "ID000524",
+    "name": "MASSA"
+  },
+  {
+    "id": "ID000525",
+    "name": "ELEGU"
+  },
+  {
+    "id": "ID000526",
+    "name": "BIDIBIDI CAMP"
+  },
+  {
+    "id": "ID000527",
+    "name": "MULANDA"
+  },
+  {
+    "id": "ID000528",
+    "name": "LYAMA"
+  },
+  {
+    "id": "ID000529",
+    "name": "MALABA POLICE POST"
+  },
+  {
+    "id": "ID000530",
+    "name": "YIVU POLICE POST"
+  },
+  {
+    "id": "ID000531",
+    "name": "PAROMBO POLICE POST"
+  },
+  {
+    "id": "ID000532",
+    "name": "KALWANG POLICE POST"
+  },
+  {
+    "id": "ID000533",
+    "name": "NYARAVUR POLICE POST"
+  },
+  {
+    "id": "ID000534",
+    "name": "DEI POLICE POST"
+  },
+  {
+    "id": "ID000535",
+    "name": "WADELAI POLICE POST"
+  }
+]
